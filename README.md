@@ -4,6 +4,10 @@ How to setup VSCode to work with Makefiles and gdb.
 
 ## Tabs
 Set tabs to 2:
+
+<img src="images/SetTabs.png?raw=true" width="400">
+
+
 File | Preferences | Settings 
 Search for tabs in the search box.
 
