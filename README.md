@@ -17,3 +17,7 @@ Make sure the C/C++ for Visual Studio Code extension from Microsoft is installed
 https://github.com/microsoft/vscode-cpptools
 
 <img src="images/C_C++Extension.png?raw=true" width="400">
+
+## Setup the Debugger
+
+
