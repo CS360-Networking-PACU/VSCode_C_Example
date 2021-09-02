@@ -2,6 +2,12 @@
 
 How to setup VSCode to work with Makefiles and gdb.
 
+Microsoft Documents
+
+https://code.visualstudio.com/docs/cpp/cpp-debug
+
+https://code.visualstudio.com/docs/cpp/launch-json-reference
+
 ## Tabs
 Set tabs to 2:
 
