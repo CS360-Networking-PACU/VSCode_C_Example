@@ -11,7 +11,8 @@ Set tab size to 2
 
 Make sure you have User selected to set this for all projects on this machine.
 
-## Extension
+
+## <img src="images/VSExtensionIcon.png?raw=true" width=50 height=50 alight=left > Extension
 Make sure the C/C++ for Visual Studio Code extension from Microsoft is installed.
 https://github.com/microsoft/vscode-cpptools
 
