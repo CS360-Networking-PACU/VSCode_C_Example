@@ -91,14 +91,20 @@ Edit tasks.json to contain:
         
 Save all .json files.
 
+### Run the build process from the keyboard
+
 *Control-Shift-B* will run the Default Build Command (runMake from above!)
+
+### Run the build process and launch the Debugger from the User Interface
 
 Run/Debugger icon: (bug, triangle)
 press green triangle at top "(gdb) Launch".
+
 <img src="images/VSCodeDebugLauncher.png?raw=true"  alight=left width=350>
 
 
 Hit "run to next break point" (blue triangle with line)
+
 <img src="images/VSCodeDebugControls.png?raw=true"  alight=left width=250>
 
 Ouput shows up in terminal.
