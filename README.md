@@ -1,6 +1,17 @@
 # VSCode_C_Example
 
+_The following steps have already been done for you in this project.  You may need to do this in future projects._
+
+
 How to setup VSCode to work with Makefiles and gdb.
+
+Microsoft Documents
+
+https://code.visualstudio.com/docs/cpp/cpp-debug
+
+https://code.visualstudio.com/docs/cpp/launch-json-reference
+
+[VS Code Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 ## Tabs
 Set tabs to 2:
@@ -80,12 +91,20 @@ Edit tasks.json to contain:
         
 Save all .json files.
 
+### Run the build process from the keyboard
+
+*Control-Shift-B* will run the Default Build Command (runMake from above!)
+
+### Run the build process and launch the Debugger from the User Interface
+
 Run/Debugger icon: (bug, triangle)
 press green triangle at top "(gdb) Launch".
+
 <img src="images/VSCodeDebugLauncher.png?raw=true"  alight=left width=350>
 
 
 Hit "run to next break point" (blue triangle with line)
+
 <img src="images/VSCodeDebugControls.png?raw=true"  alight=left width=250>
 
 Ouput shows up in terminal.
