@@ -30,7 +30,7 @@ int main(int argc, char **argv)
 
 	if ( argc > 1 )
 	{	
-		printf("Hello, %s!\n\n", argv[1]);
+		printf("Hello, %s!!\n\n", argv[1]);
 	}
 
 	printf("Good Bye!\n\n");
